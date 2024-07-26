@@ -23,7 +23,7 @@
                                     <constraint firstAttribute="height" constant="128" id="JvI-hE-Mjg"/>
                                     <constraint firstAttribute="width" constant="240" id="Ljg-nj-9md"/>
                                 </constraints>
-                                <string key="text">Install SHARINGAN ACRONIS on your computer. For detailed instructions refer to the installation guide. Run Acronis Cyber PrSHARINGAN ACRONIS, create a new backup, and select Mobile as the backup source. </string>
+                                <string key="text">Install Acronis Cyber Protect Home Office on your computer. For detailed instructions refer to the installation guide. Run Acronis Cyber Protect Home Office, create a new backup, and select Mobile as the backup source. </string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -33,7 +33,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="153" id="BjU-4e-rya"/>
                                 </constraints>
-                                <string key="text">Install SHARINGAN ACRONIS on your computer. For detailed instructions refer to the installation guide. Run Acronis Cyber PrSHARINGAN ACRONIS, create a new backup, and select Mobile as the backup source. </string>
+                                <string key="text">Install Acronis Cyber Protect Home Office on your computer. For detailed instructions refer to the installation guide. Run Acronis Cyber Protect Home Office, create a new backup, and select Mobile as the backup source. </string>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
