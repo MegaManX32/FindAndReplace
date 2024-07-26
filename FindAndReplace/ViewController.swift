@@ -11,9 +11,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        let valueToPresent = "Install SHARINGAN ACRONIS on your computer. For detailed instructions refer to the installation guide. Run SHARINGAN ACRONIS, create a new backup, and select Mobile as the backup source. "
+        
+        let text = "Install SHARINGAN ACRONIS on your computer. For detailed instructions refer to the installation guide. Run SHARINGAN ACRONIS, create a new backup, and select Mobile as the backup source. "
     }
-
-
 }
 
