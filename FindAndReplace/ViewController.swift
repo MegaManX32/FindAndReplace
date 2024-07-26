@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let text = "Install Acronis Cyber Protect Home Office on your computer. For detailed instructions refer to the installation guide. Run Acronis Cyber Protect Home Office, create a new backup, and select Mobile as the backup source. "
+        let text = "Install Super Extra Large Pizza on your computer. For detailed instructions refer to the installation guide. Run Super Extra Large Pizza, create a new pizza, and select Mobile as the pizza source. "
         
         print(text)
     }
